@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+streamlit
+transformers
+torch # or tensorflow, depending on your BERT implementation
+joblib
